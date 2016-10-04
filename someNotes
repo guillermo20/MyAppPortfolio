@@ -1,3 +1,7 @@
 
 install vbox ubuntu 
 sudo aptitude install virtualbox virtualbox-dkms
+
+
+If aapt shows error messages for app compatible check the version of the
+Gradle plugin and use the build tools that is supported.
